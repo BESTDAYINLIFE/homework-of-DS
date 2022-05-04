@@ -1,0 +1,37 @@
+SSN:222-22-2222
+NAME:Bart, Simpson
+Registered For 1 classes
+	-CMSC412-0101
+
+SSN:888-88-8888
+NAME:Luzy, Pooby
+Registered For 3 classes
+	-ENEE114-0103
+	-CMSC412-0101
+	-ENME515-0123
+
+SSN:444-44-4444
+NAME:Mary, Lossiez
+Registered For 2 classes
+	-ENEE114-0103
+	-CMSC412-0101
+
+SSN:777-77-7777
+NAME:Lisy, Lamder
+Registered For 3 classes
+	-ENEE114-0103
+	-CMSC412-0101
+	-ENME515-0123
+
+SSN:333-33-3333
+NAME:Amy, Hobby
+Registered For 2 classes
+	-CMSC412-0101
+	-ENME515-0123
+
+SSN:999-99-9999
+NAME:Peter, Alice
+Registered For 2 classes
+	-ENEE114-0103
+	-ENME515-0123
+

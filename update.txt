@@ -4,16 +4,6 @@ Registered For 2 classes
 	-ENEE114-0103
 	-ENME515-0123
 
-SSN:666-66-6666
-NAME:Dame, Allence
-Registered For 1 classes
-	-CMSC412-0101
-
-SSN:555-55-5555
-NAME:Tom, David
-Registered For 1 classes
-	-ENME515-0123
-
 SSN:333-33-3333
 NAME:Amy, Hobby
 Registered For 2 classes
@@ -35,13 +25,6 @@ Registered For 2 classes
 
 SSN:888-88-8888
 NAME:Luzy, Pooby
-Registered For 3 classes
-	-ENEE114-0103
-	-CMSC412-0101
-	-ENME515-0123
-
-SSN:111-11-1111
-NAME:Lisa, Sanders
 Registered For 3 classes
 	-ENEE114-0103
 	-CMSC412-0101
